@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mashaamacharia
+- 👋 Hi, I’m mashaa macharia
 - 👀 I’m interested in coding applications 
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on building cross-platform applications
