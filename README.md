@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mashaa macharia
 - 👀 I’m interested in coding applications 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Generative AI
 - 💞️ I’m looking to collaborate on building cross-platform applications
 - 📫 You can reach me through my email vickiemacharia07@gmail.com
 - ⚡ Fun fact: The word "bug" to describe a software error originated from an incident involving an actual insect!
