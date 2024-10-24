@@ -1,4 +1,4 @@
-- 👋 Hi, I’m mashaa macharia
+- 👋 Hi, I’m Victor macharia
 - 👀 I’m interested in coding applications 
 - 🌱 I’m currently learning Generative AI
 - 💞️ I’m looking to collaborate on building cross-platform applications
