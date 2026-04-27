@@ -19,7 +19,7 @@ Currently building at **Manymangoes (Australia)**  engineering end-to-end automa
 
 ---
 
-## 🎯 What I Do
+## 🎯 What I Do.
 
 - 🔧 Build scalable full-stack web apps with **Next.js, React, FastAPI & Django**
 - ⚙️ Engineer automation workflows with **n8n & Make** eliminating repetitive manual ops
