@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm Macharia 👋</h1>
+<h1 align="center">Hi there, I am Macharia 👋</h1>
 
 <p align="center">
   <b>Full-stack Developer · Automation Engineer · SaaS Builder · Nairobi, KE 🇰🇪</b>
