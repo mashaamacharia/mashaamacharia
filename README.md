@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I am Macharia 👋</h1>
 
 <p align="center">
-  <b>Full-stack Developer · Automation Engineer · SaaS Builder · Nairobi, 🇰🇪</b>
+  <b>Full-stack Developer · Automation Engineer · SaaS Builder · 🇰🇪</b>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ## 👤 About Me
 
-Nairobi-based **Full-Stack Developer & Automation Engineer**. I design, build, and deploy scalable web applications and automation workflows eliminating manual ops and shipping reliable systems that perform at scale.
+**Full-Stack Developer & Automation Engineer**. I design, build, and deploy scalable web applications and automation workflows eliminating manual ops and shipping reliable systems that perform at scale.
 
 Currently building at **Manymangoes (Australia)**  engineering end-to-end automation and AI-integrated web platforms for global clients.
 
