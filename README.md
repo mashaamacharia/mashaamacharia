@@ -95,7 +95,7 @@ Currently building at **Manymangoes (Australia)**  engineering end-to-end automa
 ## 🌐 Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:techworks0705@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://devmachariavictor.onrender.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://devmachariavictor.vercel.app)
 
 ---
 
