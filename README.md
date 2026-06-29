@@ -2,7 +2,7 @@
 <h1 align="center">Hi there, I am Macharia 👋</h1>
 
 <p align="center">
-  <b>Full-stack Developer · Automation Engineer · 🇰🇪</b>
+  <b>Full-stack Developer · Automation Engineer ·</b>
 </p>
 
 <p align="center">
