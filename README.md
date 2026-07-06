@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I am Victor>
+<h1 align="center">Hi there, I am Victor.
 
 <p align="center">
   <b>Full-stack Developer · Automation Engineer ·</b>
